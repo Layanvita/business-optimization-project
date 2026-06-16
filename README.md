@@ -18,3 +18,6 @@ Optimal Production:
 
 Maximum Profit:
 ₹2600
+
+## Conclusion
+Optimization techniques help businesses make efficient decisions and maximize profitability.
